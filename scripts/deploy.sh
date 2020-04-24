@@ -1,1 +1,1 @@
-"display this is venkat"
+echo "display this is venkat"
